@@ -1,0 +1,5 @@
+deb http://download.opensuse.org/repositories/home:/npreining:/debian-kde:/other-deps/Debian_11/ ./
+deb http://download.opensuse.org/repositories/home:/npreining:/debian-kde:/frameworks/Debian_11/ ./
+deb http://download.opensuse.org/repositories/home:/npreining:/debian-kde:/plasma524/Debian_11/ ./
+deb http://download.opensuse.org/repositories/home:/npreining:/debian-kde:/apps2112/Debian_11/ ./
+deb http://download.opensuse.org/repositories/home:/npreining:/debian-kde:/other/Debian_11/ ./ 
