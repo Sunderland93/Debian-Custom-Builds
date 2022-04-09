@@ -24,7 +24,7 @@ slurp
 suckless-tools
 sway
 swaybg
-vim
+neovim
 vulkan-tools
 wdisplays
 wf-recorder
